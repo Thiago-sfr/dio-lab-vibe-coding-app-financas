@@ -60,7 +60,7 @@ Resultado final no Lovable: https://chat-cents-guide.lovable.app
 
 <img width="1365" height="637" alt="Captura de tela 2025-12-25 220136" src="https://github.com/user-attachments/assets/f7d10712-d83e-4370-8696-e7a749432057" />
 
-## Funcionalidades do Aplicativo de Finanças Pessoais
+## 💻Funcionalidades do Aplicativo de Finanças Pessoais
 
 ### Dashboard Financeiro
 - Exibe o saldo disponível, receitas e despesas de forma clara e visual.
@@ -93,7 +93,7 @@ Resultado final no Lovable: https://chat-cents-guide.lovable.app
 
    
   
-## Reflexão
+## 🧠Reflexão
 ### O que funcionou bem?
 O refinamento do PRD e o chat do APP.
 ### O que não funcionou como o esperado?
